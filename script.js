@@ -1,0 +1,2 @@
+// uyga vazifa
+// 1
