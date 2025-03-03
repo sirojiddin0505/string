@@ -32,5 +32,24 @@
 
 
 
-// 5
+// 5   ?
+// let text = "hello world"
+
+
+// 6   ?
+// let text = "hello javascript"
+// function getStringStars(N, text){
+// }
+
+
+// 7
+// let text = "hello javascript"
+// console.log(text.length);
+
+
+
+// 10
+let text = "HelLo JavAscriPt"
+console.log(text.toLocaleLowerCase);
+
 
